@@ -1,0 +1,3 @@
+[submodule "TS-airdrop"]
+    path = TS-airdrop
+    url = https://github.com/Weebad123/TS-airdrop.git
